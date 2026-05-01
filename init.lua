@@ -948,7 +948,6 @@ require('lazy').setup({
         },
         update_focused_file = {
           enable = true,
-          update_root = true,
         },
       }
       -- Optional: Bind a key to toggle the tree
